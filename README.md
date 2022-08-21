@@ -7,7 +7,7 @@ The beta *version 2.0* was initially developed by [*Dr. M. Rybnik*](https://www.
 
 The development was accomplished under supervision of [*Prof. K. Madani*](https://www.researchgate.net/profile/Kurosh-Madani) and [*Prof. A. Chebira*](https://www.researchgate.net/profile/Abdennasser-Chebira)
 
-My enhanced version of Tree-like Divide to Simplify (T-DTS) ANN (AI/ML) lego-like tool used for any classification task which is grounded the following ideas:
+My enhanced version of Tree-like Divide to Simplify (T-DTS) ANN (AI/ML) lego-like tool used for any classification task which is grounded on the following ideas:
 * The set of DB classification decomposers and the set of the end-tree-leaf classifiers (*Rybnik's implementation in code + his T-DTS code skeleton*)
 * Increased library of classification task complexety estimators (*Rybnik's and my contributions plus a lot of debug*)
 * Among them [RBF Net](https://en.wikipedia.org/wiki/Radial_basis_function_network) like [IBM ZISC(r)-036 RBF Net](https://en.wikipedia.org/wiki/No_instruction_set_computing#Zero_instruction_set_computer) based estimator that allows us to build T-TDS on chip (*my contribution*)
