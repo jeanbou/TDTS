@@ -1,8 +1,3 @@
----
-name: google-site-verification
-content: BGdq6tSs-dCnQSd0PnwtSeSLXRqwuUGlMa28ftV2cOs
----
-
 # T-DTS (Tree-like Divide to Simplify)
 
 *T-DTS (Tree-like Divide to Simplify)* is a next software *version 3.0* writen in Matlab 6 in the scope of *my thesis*: 
